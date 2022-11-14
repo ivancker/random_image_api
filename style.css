@@ -17,8 +17,8 @@
   background-color: whitesmoke;
   background-size: cover;
   margin-top: 100px;
-  max-width: 420px;
-  max-height: 620px;
+  max-width: 75vw;
+  max-height: 75vh;
 }
 
 .button-change-img {
