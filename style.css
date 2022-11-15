@@ -23,8 +23,8 @@
   background-color: whitesmoke;
   background-size: cover;
   margin-top: 100px;
-  max-width: 75vw;
-  max-height: 75vh;
+  max-width: 72vw;
+  max-height: 72vh;
 }
 
 /* .button-change-img {
@@ -113,7 +113,7 @@
 a {
   position: absolute;
   text-decoration: none;
-  color: #000;
+  color: rgb(255, 255, 255);
   z-index: 1000;
 }
 .main::after {
