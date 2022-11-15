@@ -1,6 +1,6 @@
 const mainBlk = document.querySelector('.main-block');
 const image = mainBlk.querySelector('.picture');
-const btn = mainBlk.querySelector('.button-change-img');
+const btn = document.querySelector('.button-change-img');
 const spinner = mainBlk.querySelector('.spinner');
 
 // fetch('https://api.unsplash.com/photos/random/?client_id=rNbUjGL5BpnOl_37-24eWw-dmjuP7UVRKiki11xcF_k')
